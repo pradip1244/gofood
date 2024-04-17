@@ -1,5 +1,6 @@
 <?php
 // Initialize variables to null
+include('index.php');
 $username = $password = "";
 $errorMessage = "";
 
