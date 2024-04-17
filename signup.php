@@ -66,7 +66,7 @@ $conn->close();
 
         <div class="signup-form">
             <h2>Sign Up</h2>
-            <form action="signup.php" method="post">
+            <form  method="post">
                 <label for="username">Name:</label>
                 <input type="text" id="name" name="username" required>
                 <label for="phonenumber">Mobile Number:</label>
